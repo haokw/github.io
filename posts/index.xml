@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hao&#39;s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Hao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>chinese</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>提高英语词汇</title>
+      <link>/posts/190511-20-learn-english-vocabulary/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190511-20-learn-english-vocabulary/</guid>
+      <description>&lt;p&gt;如何学习并且记住英语词汇，你将会看到英语学习者的常见误区，有效提高词汇水平的方法。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>提高英语语法</title>
+      <link>/posts/190510-19-improve-english-grammar/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190510-19-improve-english-grammar/</guid>
+      <description>&lt;p&gt;语法告诉我们如何连接单词和短语。一步一步的练习计划，提高英语语法。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>不再害羞讲英文</title>
+      <link>/posts/190509-18-shy-speaking-english/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190509-18-shy-speaking-english/</guid>
+      <description>&lt;p&gt;害羞和紧张时很自然的，但是对于讲话这来说就是困难的，会不知道说什么，无法正确的应用语法和词汇。&lt;/p&gt;
+
+&lt;p&gt;这里分享一些想法和建议。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>5步提高英语听力</title>
+      <link>/posts/190508-17-improve-english-listenging/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190508-17-improve-english-listenging/</guid>
+      <description>&lt;p&gt;在互联网上冲浪的时候，有时会遇到精彩的视频，或者优秀的博客节目，但是却因为听力的问题，无法享受。今天就来看看提高英语听力的五个步骤。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>流利讲英文</title>
+      <link>/posts/190507-16-speak-english-fluently/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190507-16-speak-english-fluently/</guid>
+      <description>&lt;p&gt;英语技能是打开新世界大门的重要手段，尤其是在互联网中，英文世界的互联网要比我们想想的大很多，想要更快更自由的在新世界游览，学习英语就是一个必须要跨越的门槛，所以用英语做些事就此开始，在这里记录其中过程和笔记。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

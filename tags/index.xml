@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hao&#39;s Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Hao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>chinese</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>词汇</title>
+      <link>/tags/%E8%AF%8D%E6%B1%87/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E8%AF%8D%E6%B1%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>语法</title>
+      <link>/tags/%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E8%AF%AD%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口语</title>
+      <link>/tags/%E5%8F%A3%E8%AF%AD/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E5%8F%A3%E8%AF%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>听力</title>
+      <link>/tags/%E5%90%AC%E5%8A%9B/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E5%90%AC%E5%8A%9B/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
