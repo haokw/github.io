@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Hao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>chinese</language>
-    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>目标</title>
+      <link>/tags/%E7%9B%AE%E6%A0%87/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E7%9B%AE%E6%A0%87/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>方法</title>
