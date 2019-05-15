@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阅读 on Hao&#39;s Blog</title>
+    <link>/tags/%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 阅读 on Hao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>chinese</language>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何提高英语阅读技能</title>
+      <link>/posts/190514-23-english-reading-skills/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190514-23-english-reading-skills/</guid>
+      <description>&lt;p&gt;避免提高阅读能力的错误方法，一步一步快速/高效的提高英语阅读等级。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

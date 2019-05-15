@@ -4,25 +4,53 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%90%AC%E5%8A%9B/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/190515-24-understand-fast-speech/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E8%8B%B1%E8%AF%AD/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/190514-23-english-reading-skills/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,12 +61,6 @@
   
   <url>
     <loc>/tags/%E7%9B%AE%E6%A0%87/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,12 +112,6 @@
   <url>
     <loc>/posts/190508-17-improve-english-listenging/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E5%90%AC%E5%8A%9B/</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
