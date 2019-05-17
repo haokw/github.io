@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Hao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>chinese</language>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>语法</title>
+      <link>/tags/%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E8%AF%AD%E6%B3%95/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>听力</title>
@@ -53,15 +62,6 @@
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/%E8%AF%8D%E6%B1%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>语法</title>
-      <link>/tags/%E8%AF%AD%E6%B3%95/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/%E8%AF%AD%E6%B3%95/</guid>
       <description></description>
     </item>
     
