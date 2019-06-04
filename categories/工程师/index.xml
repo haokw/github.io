@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工程师 on Hao&#39;s Blog</title>
+    <link>/categories/%E5%B7%A5%E7%A8%8B%E5%B8%88/</link>
+    <description>Recent content in 工程师 on Hao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>chinese</language>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E5%B7%A5%E7%A8%8B%E5%B8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>持续</title>
+      <link>/posts/190603-flow/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190603-flow/</guid>
+      <description>&lt;p&gt;持续迭代&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>高效学习完全指南</title>
+      <link>/posts/190603-effective-learning/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190603-effective-learning/</guid>
+      <description>&lt;p&gt;回想入行这几年，一直停滞不前，在焦虑/拖延/睡不醒中消耗的大部分的时光，仰望大佬的成就，看着同行的背影越来越远，促使我思考，不能再用没兴趣/没时间/没精力来逃避，从今天开始找到目标，击破障碍，奉行怦然心动的人生哲学，专注/习惯/持续。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

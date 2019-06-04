@@ -6,17 +6,35 @@
     <description>Recent content on Hao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>chinese</language>
-    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>持续</title>
+      <link>/posts/190603-flow/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190603-flow/</guid>
+      <description>&lt;p&gt;持续迭代&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>高效学习完全指南</title>
+      <link>/posts/190603-effective-learning/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/190603-effective-learning/</guid>
+      <description>&lt;p&gt;回想入行这几年，一直停滞不前，在焦虑/拖延/睡不醒中消耗的大部分的时光，仰望大佬的成就，看着同行的背影越来越远，促使我思考，不能再用没兴趣/没时间/没精力来逃避，从今天开始找到目标，击破障碍，奉行怦然心动的人生哲学，专注/习惯/持续。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>加来道雄谈人类的未来</title>
-      <link>/posts/michio-kaku-future-of-humanity/</link>
+      <link>/posts/190519-michio-kaku-future-of-humanity/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/michio-kaku-future-of-humanity/</guid>
+      <guid>/posts/190519-michio-kaku-future-of-humanity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Michio Kaku on The Future of Humanity (Google I/O&amp;rsquo;19)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;An enlightening conversation with the famed theoretical physicist, futurist, and co-founder of String Field Theory.  This fireside chat will cover a range of topics from quantum computing, how AI can improve our quality of life, to potential life on Mars and why he is determined to complete Einstein’s theory of everything.&lt;/p&gt;</description>
