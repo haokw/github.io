@@ -4,13 +4,201 @@
   <title><![CDATA[Hao's Blog]]></title>
   <link href="https://haokw.github.io/atom.xml" rel="self"/>
   <link href="https://haokw.github.io/"/>
-  <updated>2019-06-09T17:50:48+08:00</updated>
+  <updated>2019-06-09T18:47:00+08:00</updated>
   <id>https://haokw.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[高效学习完全指南]]></title>
+    <link href="https://haokw.github.io/effective-learning.html"/>
+    <updated>2019-06-09T18:11:44+08:00</updated>
+    <id>https://haokw.github.io/effective-learning.html</id>
+    <content type="html"><![CDATA[
+<p>回想入行这几年，一直停滞不前，在焦虑/拖延/睡不醒中消耗的大部分的时光，仰望大佬的成就，看着同行的背影越来越远，促使我思考，不能再用没兴趣/没时间/没精力来逃避，从今天开始找到目标，击破障碍，奉行怦然心动的人生哲学，专注/习惯/持续。</p>
+
+<!--more-->
+
+<h2 id="toc_0">觉悟</h2>
+
+<p>高效学习，首先进入学习方法的效果，主要区别在于主动性。</p>
+
+<pre class="line-numbers"><code class="language-txt">The Pyramid Learning / Cone of Learning
+
+Average Retention Rates
+
+Passive Teaching Methods
+Lecture 5%
+Reading 10%
+Audio / Visual 20%
+Demonstration 30%
+
+Participatory Teaching Methods
+Discussion Group 50%
+Practice by Doing 75%
+Teach Others 90%
+</code></pre>
+
+<p>不盲目追求速度和数量，选择效率更高，更主动的学习方法。</p>
+
+<h3 id="toc_1">学习步骤：</h3>
+
+<ul>
+<li>知识采集。获取信息源头，多方印证。</li>
+<li>知识组网。形成体系结构，不是单纯的记忆，要能够推演。</li>
+<li>技能转换。举一反三/实践/教授</li>
+</ul>
+
+<h3 id="toc_2">学习的目的：</h3>
+
+<ul>
+<li>学习不仅是为了找到答案，更是为了找到方法。</li>
+<li>学习不仅是为了知道，而是为了思考和理解。</li>
+<li>学习不仅是为了开拓眼界，而是为了找到自己的无知，了解自己。<em>You do not know what you do not know</em></li>
+<li>学习不仅是为了成长，更是为了改变自己，改变思维方式，改变与生俱来的垃圾和低效的算法。</li>
+</ul>
+
+<h2 id="toc_3">知识地图收集</h2>
+
+<ul>
+<li>从源头获取信息，最新/最酷/最有营养</li>
+<li>注重基础和原理，基础知识和原理性的技术，是经历过长时间考验的，是智慧结晶。</li>
+<li>使用知识地图，学习不是为了记忆知识点，而是为了找到知识地图。</li>
+</ul>
+
+<h2 id="toc_4">方法论模板</h2>
+
+<p>持续2-3年，成为领域内之手可热的佼佼者。</p>
+
+<h3 id="toc_5">WHY</h3>
+
+<ul>
+<li>技术出现的背景/初衷和要达到的目标或者解决的问题。</li>
+<li>技术的优势和劣势或者trade-off。</li>
+<li>技术适用的场景，技术场景/业务场景。</li>
+</ul>
+
+<h3 id="toc_6">HOW</h3>
+
+<ul>
+<li>技术组成部分和关键点，灵魂所在。</li>
+<li>技术的底层原理和关键实现。</li>
+</ul>
+
+<h3 id="toc_7">WHAT</h3>
+
+<ul>
+<li>已有实现和他之间的对比，不同的侧重，不同的思路，深入细节。</li>
+</ul>
+
+<h2 id="toc_8">举一反三</h2>
+
+<p>持续强大思维能力。</p>
+
+<h3 id="toc_9">基本能力</h3>
+
+<ul>
+<li>联想能力，同一事务的不同用法，相关事物的联系。</li>
+<li>抽象能力，找到解决问题的通用模型。</li>
+<li>自省能力，左右互博，思辨能力。</li>
+</ul>
+
+<p>训练方法</p>
+
+<ul>
+<li>对于一个场景，制造各种不同的问题和难题。</li>
+<li>对于一个问题，努力寻找尽可能多的解答，比较优劣。</li>
+<li>对于一个解，努力寻找各种不同的测试案例，使其健壮。</li>
+</ul>
+
+<h2 id="toc_10">总结和归纳</h2>
+
+<p>越了解，积累越多，越能够分辨细节，感觉参考对外国人的脸盲。</p>
+
+<p>学习的开始阶段，不急于总结归纳/下判断/做结论，保留部分知识的不确定性，保持对知识的开放态度。</p>
+
+<p>把看到和学到的信息，规整/排列/关联好，结构化信息，找到规律/相通/共同，进行简化/归纳/总结，最终形成套路/模式/通用方法。</p>
+
+<p>使用上述方法，联系输出和转述。</p>
+
+<h2 id="toc_11">实践</h2>
+
+<ul>
+<li>Eat your own dog food.</li>
+<li>Grow up through the pain.</li>
+</ul>
+
+<h2 id="toc_12">持续不懈</h2>
+
+<p>每周 ARTS: Algorithm / Review / Tips / Share</p>
+
+<p>持续一年，形成习惯。</p>
+
+<h2 id="toc_13">代码阅读</h2>
+
+<blockquote>
+<p><a href="https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/">Code Tells You How, Comments Tell You Why</a></p>
+</blockquote>
+
+<ul>
+<li>了解细节阅读代码，WHAT &amp; HOW &amp; DETAILS</li>
+<li>了解原理看书/文档，WHAT &amp; HOW &amp; WHY</li>
+</ul>
+
+<h3 id="toc_14">阅读源代码前准备</h3>
+
+<ol>
+<li>基础知识</li>
+<li>软件功能</li>
+<li>相关文档</li>
+<li>代码的组织结构</li>
+</ol>
+
+<h3 id="toc_15">了解代码组成</h3>
+
+<ol>
+<li>接口抽象定义，接口/抽象定义</li>
+<li>模块粘合层，中间件 middleware / Promises 模式 / 回调 Callback / 代理委托 / 依赖注入</li>
+<li>业务流程
+<ul>
+<li>代码逻辑。业务逻辑和控制逻辑，多线程处理/异步控制/远程通信/序列化都属于控制逻辑，两种逻辑混淆造成代码混乱。</li>
+<li>出错处理。2/8 删掉处理错误的代码，排除干扰，高效阅读代码。</li>
+<li>数据处理。倒腾数据，冗长无聊，不理会。</li>
+<li>重要的算法。索引列表算法/全局唯一ID算法/信息推荐算法/统计算法/通读算法，难懂，但是最具技术含量。</li>
+<li>底层交互。和操作系统/JVM交互，需要底层技术知识。</li>
+</ul></li>
+<li>运行时调试</li>
+</ol>
+
+<h3 id="toc_16">方法</h3>
+
+<ul>
+<li>自顶向下，从总体到细节</li>
+<li>程序流程图 / 调用时序图 / 模块组织图</li>
+<li>代码逻辑归类</li>
+<li>debug 了解真实发生</li>
+</ul>
+
+<h2 id="toc_17">面对枯燥的知识</h2>
+
+<ul>
+<li><p>一步一步，带着问题学习</p></li>
+<li><p>认真阅读文档</p></li>
+<li><p>用不同的方法学习。看书/听课/脑图/博客/讲课/解决实际问题</p></li>
+<li><p>不被打断</p></li>
+<li><p>总结压缩。表格/图示/笔记/脑图</p></li>
+<li><p>未知关联到已知</p></li>
+<li><p>用教的方法学习</p></li>
+<li><p>学以致用</p></li>
+<li><p>不要记忆</p></li>
+<li><p>多犯错误</p></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[入门阶段]]></title>
@@ -67,6 +255,310 @@
 <li>ZooKeeper</li>
 <li>LeetCode</li>
 </ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[持续迭代]]></title>
+    <link href="https://haokw.github.io/flow.html"/>
+    <updated>2019-06-09T18:13:50+08:00</updated>
+    <id>https://haokw.github.io/flow.html</id>
+    <content type="html"><![CDATA[
+<p>持续迭代，学以致用</p>
+
+<!--more-->
+
+<h2 id="toc_0">完成技术学习模板，输出Blog</h2>
+
+<h3 id="toc_1">WHY</h3>
+
+<ul>
+<li>技术出现的背景/初衷和要达到的目标或者解决的问题。</li>
+<li>技术的优势和劣势或者trade-off。</li>
+<li>技术适用的场景，技术场景/业务场景。</li>
+</ul>
+
+<h3 id="toc_2">HOW</h3>
+
+<ul>
+<li>技术组成部分和关键点，灵魂所在。</li>
+<li>技术的底层原理和关键实现。</li>
+</ul>
+
+<h3 id="toc_3">WHAT</h3>
+
+<ul>
+<li>已有实现和他之间的对比，不同的侧重，不同的思路，深入细节。</li>
+</ul>
+
+<h2 id="toc_4">持续习惯</h2>
+
+<p>每周 ARTS: Algorithm / Review / Tips / Share</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[加来道雄谈人类的未来]]></title>
+    <link href="https://haokw.github.io/michio-kaku-future-of-humanity.html"/>
+    <updated>2019-06-09T18:15:30+08:00</updated>
+    <id>https://haokw.github.io/michio-kaku-future-of-humanity.html</id>
+    <content type="html"><![CDATA[
+<p><strong>Michio Kaku on The Future of Humanity (Google I/O&#39;19)</strong></p>
+
+<p>An enlightening conversation with the famed theoretical physicist, futurist, and co-founder of String Field Theory.  This fireside chat will cover a range of topics from quantum computing, how AI can improve our quality of life, to potential life on Mars and why he is determined to complete Einstein’s theory of everything. </p>
+
+<!--more-->
+
+<blockquote>
+<https://www.youtube.com/watch?v=zsnc0vkwWRk></blockquote>
+
+<p>[MUSIC PLAYING]</p>
+
+<p><strong>TAYLOR WILSON</strong>: All right. Take a seat. Welcome, everybody. I&#39;m Taylor Wilson. For those of you who know who I am, I&#39;m a nuclear physicist in my day job. I built a nuclear reactor when I was 14. I think that&#39;s one of the many things that we share in common our interests in things of that nature when we were really young. So I&#39;m excited to be here today to interview Dr. Kaku about physics and the future. So I guess with that we&#39;ll get started. I will say that when we finish our talking up here, we&#39;re going to take questions from the audience. So if you want to start thinking about some questions that you have for Dr. Kaku about the future of humanity or physics, we&#39;re happy to try to give you an answer. So with that, thank you for joining us this morning.</p>
+
+<p><strong>MICHIO KAKU</strong>: My pleasure.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes. I wanted to start with something that&#39;s been in the news the last couple of weeks and I&#39;m sure a lot of people are really interested in. And that&#39;s that picture of a black hole that was taken by the Event Horizon telescope. Maybe you could talk a little bit about how you feel seeing that image and what that tells us about the physics of the universe.</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, when I was a grad student at Berkeley, black holes were considered science fiction. It was considered like finding a unicorn. It&#39;s a fabled animal. Everyone talks about unicorns. But no one&#39;s ever seen one because they don&#39;t exist. Now we&#39;ve got it in the bag. We&#39;ve actually photographed the silhouette, the shadow of a black hole. But that&#39;s just the beginning. You see, this black hole is spinning, spinning rapidly. We&#39;ve clocked black holes at about a million miles an hour. And if you look at Einstein&#39;s equations and have a spinning black hole, they don&#39;t collapse to a dot. They collapse to a ring, a ring of neutrons. So it&#39;s that centrifugal force prevents it from collapsing. It&#39;s stable. If you were to fall through the north pole of the ring, you wind up, mathematically, on a parallel universe. And if you go a second time, you wind up on another parallel universe. And you keep on going through the ring. It&#39;s like going through an apartment building, hitting the elevator, each floor being another universe. And we want to know is that real, or is it just a mathematical fiction, a unicorn, in other words, a wormhole at the center of a spinning black hole. And that&#39;s what we want to do with the next generation of radio telescope technology.</p>
+
+<p><strong>TAYLOR WILSON</strong>: OK. That&#39;s fascinating. So this idea that black holes, 40, 50 years ago were something that we might have had theoretical evidence of or even indirect  observational evidence of, but now we have that real, first, true, direct observational evidence of. So what you&#39;re saying is maybe what&#39;s next-- what could those other possibilities be for objects that we have not yet seen.</p>
+
+<p><strong>MICHIO KAKU</strong>: Right. In other words, a black hole is a cosmic roach motel. Everything checks in, nothing checks out. But then the question is, where does it go? Where does all that stuff go if it falls into a black hole? Some theorists have stated that maybe it&#39;s blown out the other end as a white hole. So maybe there&#39;s a white hole on the other side of a black hole such that it spews out matter.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: Now doesn&#39;t that sound like the big bang? Some people even think that maybe our universe is a white hole and that we are connected with an umbilical cord to another universe.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Fascinating.</p>
+
+<p><strong>MICHIO KAKU</strong>: This is the multiverse idea which is now gaining a tremendous amount of theoretical credibility. Though, of course, we have not yet proven this theory at all.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Well, that&#39;s a good segue, talking about multiverses and into something that you&#39;re quite familiar with, string theory. So maybe you want to tell everyone kind of your background and how you ended up in physics. You&#39;re from this area originally, correct?</p>
+
+<p><strong>MICHIO KAKU</strong>: That&#39;s right. I&#39;m a local kid. I was born in San Jose. I grew up in Palo Alto, went to school, up to high school in Palo Alto. But when I was eight years old, when I was eight years old something happened which changed my whole destiny. And that is in the newspapers they announced that a great scientist had just died. And they put a picture of his desk on the front page. And the caption said this is the unfinished manuscript from the greatest scientist of our time. And I thought to myself, why couldn&#39;t he finish it? What&#39;s so hard that a great scientist could not finish this theory? It&#39;s a homework problem, right? Why didn&#39;t he ask his mother? What could be so hard? So I went to the library. I found that this man&#39;s name was Albert Einstein. And that book, that book on the desk was the unfinished theory of everything. He wanted an equation one inch long that would allow him to quote, &quot;read the mind of God.&quot; So I said to myself, wow. That&#39;s for me.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: That&#39;s what I want to work on. I want to help finish this great theory that Einstein could not finish. Well, today, we think we have it. It&#39;s called string theory. It has not yet been tested. But we think that this could be the final unicorn, the final theory of everything. So that every neutron, every proton, every electron is nothing but tiny vibrations on a tiny string. This is an electron. That&#39;s a quark. This is a neutrino. Nothing but musical notes on a string. Physics, therefore, is the harmonies you can write on a string. Chemistry is the melodies you can play on vibrating strings. The universe is a symphony of strings. And then the mind of God, the mind of God that Einstein wrote about for the last 30 years of his life, the mind of God is cosmic music resonating through 11 dimensional hyperspace.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Amazing.</p>
+
+<p><strong>MICHIO KAKU</strong>: That is the mind of God.</p>
+
+<p><strong>TAYLOR WILSON</strong>: So this idea, this grand unified theory that&#39;s based on string theory, is something you&#39;ve spent your entire career working on?</p>
+
+<p><strong>MICHIO KAKU</strong>: That&#39;s right. We want that equation one inch long. Now for strings, not membranes, but just for strings, we have that equation.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: That&#39;s my equation. I&#39;m the co-founder of string field theory, which allows you to summarize this vast body of knowledge into an equation one inch long. But today we have membranes, M-theory, which makes things more complicated. So it&#39;s unfinished. So if one of you in the audience ever figures out the final theory, be sure to tell me first.</p>
+
+<p>[LAUGHTER]</p>
+
+<p>We&#39;ll split the Nobel Prize together.</p>
+
+<p>[LAUGHTER]</p>
+
+<p><strong>TAYLOR WILSON</strong>: Now that&#39;s not a bad deal for you. That&#39;s really interesting. So this is the idea of taking the physics [INAUDIBLE] large, like, the laws that govern gravitation and the like, and unifying it with the theories that govern the very small and the very hot, the quantum rules of the universe. So your idea is that the best way to solve this problem is through string theory?</p>
+
+<p><strong>MICHIO KAKU</strong>: That&#39;s right. Nature has a left hand and a right hand. The left hand, as you said, is the theory of the very big-- black holes, the big bang, Einstein&#39;s theory of gravity. But the other hand of God is the quantum theory, the theory of the very small. So why should we have two hands that don&#39;t coordinate with each other. And that&#39;s why we do believe that there is a final theory.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: And we&#39;re going to test it. The Large Hadron Collider has given us the Higgs Boson, given us the so-called God particle. But now, we&#39;re going to build a successor to the Large Hadron Collider. The Japanese, with the International Linear Collider, the Chinese with the Circular Collider, and the European Union-- three ventures have been proposed for the successor of the Large Hadron Collider. But unfortunately, not from the United States. We&#39;re left in the dust once again.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah. But that&#39;s the way to really test the theory is to build a very large collider, collide the particles, and see what comes out.</p>
+
+<p><strong>MICHIO KAKU</strong>: Our super collider was canceled in the 1990s to be built outside Dallas, Texas. One reason why it was canceled is because a congressman asked a physicist on the last days of hearing quote, &quot;Will we find God with your machine? If so, I will change my vote.&quot; Well, the physicists didn&#39;t know what to say. <em>$10</em> billion to find God-- so he said, we&#39;re going to find the Higgs boson. Well, all the jaws hit the floor in the United States Congress. <em>$10</em> billion for another goddamn subatomic particle. They took the vote, and it was canceled. Since then we physicists had to ask ourselves, how would we answer that question?</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: The next time someone asks us will we find God with your machine, how will we answer it?</p>
+
+<p><strong>TAYLOR WILSON</strong>: Mm-hmm.</p>
+
+<p><strong>MICHIO KAKU</strong>: I would have answered it differently. I would have said God, by whatever signs or symbols you ascribe to the deity, this machine, the Super Collider will take us as close as humanly possible to his greatest creation, genesis. This is a genesis machine. It will recreate, on a small scale, the most incredible event in the history of the universe, its birth. Unfortunately, we said Higgs boson.</p>
+
+<p>[LAUGHTER]</p>
+
+<p><strong>TAYLOR WILSON</strong>: Not as exciting.</p>
+
+<p><strong>MICHIO KAKU</strong>: Wrong answer.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Wrong answer. And you have a little personal experience with colliders. Maybe you want to talk a little bit about what you built when you were in high school?</p>
+
+<p><strong>MICHIO KAKU</strong>: Yeah. Well, just like you, when I was a junior in Cubberley High School, which is just about two miles from here, I decided to build a particle accelerator, an atom smasher, in my mom&#39;s garage. So I went to my mom, and I said, mom, can I have permission to build a 2.3 million electron volt betatron electron accelerator in the garage? And she kind of looked at me and said, sure.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: Why not? And don&#39;t forget to take out the garbage.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: So I went to Westinghouse. I got 400 pounds of transformer steel. I went to Varian, got 22 miles of copper wire. And on the football field over Christmas, we [INAUDIBLE] 22 miles of copper wire.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Wow.</p>
+
+<p><strong>MICHIO KAKU</strong>: It finally was finished. It consumed six kilowatts of power. I would plug it in, I closed my ears.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: And I heard this crackling sound as all this energy surged in the capacitor bank. And then I heard this pop, pop, pop sound as I blew out all the fuses in my mom&#39;s house.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: The whole house would be plunged in darkness. And my poor mom, she must have said to herself, why couldn&#39;t I have a son who plays basketball? Maybe if I buy him a football? And for God&#39;s sake, why can&#39;t he find a nice Japanese girlfriend? Why does he build these machines in the garage?</p>
+
+<p><strong>TAYLOR WILSON</strong>: I think our parents would get along. I think they have similar opinions about these things. So that&#39;s really exciting. So that was something you did in high school. And then you went on to college to study theoretical physics and develop string theory. And now I guess you spend a lot of time thinking about the future and what all this science and technology means for our species and our evolution. That leads me into kind of a segue away from basic theoretical physics, which is the topic of the brain. It&#39;s something I think a lot of people are interested in, knowing what is the nature of consciousness, and this thing inside our head that controls our lives. But it&#39;s something we know very little about today. I know you&#39;ve spent a lot of time thinking and writing about the brain and human consciousness. I was recently in China with what China calls the father of quantum Pan Jianwei. And he was talking about this idea of quantum consciousness or the quantum mechanics that underlie consciousness. So I give you that question, for your thoughts. What are kind of the quantum mechanical possibilities that underlie the functioning of the brain and consciousness?</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, the two greatest mysteries in all of science, in all of science, the two greatest mysteries are one, what happened before creation? Why did we have a big bang? What banged? Are there other universes, a multiverse, before the Big Bang? That&#39;s outer space. Then the second mystery is inner space.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: What goes on behind your eyeballs? We have 100 billion neurons in your brain, as many as stars in the Milky Way galaxy. Each neuron is connected to 10,000 other neurons. And so what is the brain? We made a mistake 50 years ago. And we&#39;re still paying the price for it today. 50 years ago, we made a huge mistake. We thought the brain was a computer, a digital computer. But you see, the brain has no operating system. It has no programming. It has no windows. It has no CPU. It has no Pentium chip. It has no subroutines. The brain doesn&#39;t have anything resembling the brain except neural activity. 50 years later, after this wild goose chase, we now understand that the brain is a pattern seeking neural network, a learning machine, and it learns and rewires every time it learns something new. For example, your laptop today is just as stupid as it was yesterday. Your laptop never learns anything, except now we have deep learning. But our brain constantly rewires itself. And that process can be recreated with MRI machines. With physics, we can look at the blood flow in the brain now and actually see thoughts as they move in the brain-- amazing. We can actually test Freudian theory. We can actually test old wives tales. For example, there&#39;s an old wives tale that everyone believes but no one could prove until now. That when a man talks to a pretty girl, he starts to act stupid.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Hm.</p>
+
+<p>[LAUGHTER]</p>
+
+<p><strong>MICHIO KAKU</strong>: Now everyone believes it.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: But we now know why. When a man talks to a pretty girl, blood drains from the prefrontal cortex, and they start to act mentally retarded. Absolutely true we can quantify this effect now.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: We can actually measure this dropping of blood in the prefrontal cortex because of MRI machines. We can now extract images. Images can be extracted from the living brain with an MRI machine. Meaning that art, design will be revolutionized. Artists of the future will simply think, think of a conception, and we&#39;ll print it out on a 3D printer. Designers of buildings, architects, will dream of their creation, and a 3D printer will then print it out. And when you go to sleep, the MRI machine keeps on plugging away and will print out your dream. In the future, when you wake up in the morning, you may push a button and see the videotape of the dream you had the previous night. Just don&#39;t tell your wife or husband.</p>
+
+<p>[LAUGHTER]</p>
+
+<p><strong>MICHIO KAKU</strong>: So these are things that were considered science fiction, but now we can put these on the internet. The future of the internet is brain net. Instead of sending digital signals, we&#39;ll send emotions, memories, feelings on the internet. The first memories were recorded about three years ago at Wake Forest University, also in Los Angeles. Memories from animals can now be recorded. Next will be memories in monkeys. We&#39;re doing that today. Next is Alzheimer&#39;s patients-- Alzheimer&#39;s patients will push a button and memories, memories will come flooding into their mind. And after that, who knows? Maybe we&#39;ll be able to upload calculus or learned disciplines inside our mind. And by the way, let me ask you guys a question. Let me ask you guys a question. One day we may be able to upload reality itself, just like in the movie, &quot;The Matrix.&quot; Right? How many of you early, late at night, just before you go to sleep, how many of you have ever had that weird feeling, that strange feeling that maybe life is an illusion? Maybe everything has been uploaded into your mind. Maybe you&#39;re the only real thing and life is an illusion. Raise your hand. Raise your hand if you&#39;ve ever had that feeling. Oh, my God. You&#39;re all crazy. We have so many crazy people in this audience. How can you be the only person in the world when I&#39;m the only person in the world?</p>
+
+<p>[LAUGHTER]</p>
+
+<p>I&#39;m just dreaming I&#39;m here at Google. I&#39;m just dreaming. I&#39;m in New York right now, you know that?</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: I&#39;m just about to go to sleep in New York. I mean, come on. Give me a break.</p>
+
+<p><strong>TAYLOR WILSON</strong>: But this is this idea of humanity and our brains interfacing with machines and that being kind of a future step in our evolution as a species. I think that&#39;s a very interesting topic to think about. What are the implications of that, both positive, talking about being able to learn things at a fast rate or download memories, but potentially the negative consequences of that. We can definitely see, with digital architecture today, the problems that we face. So imagine if we&#39;re a part of that architecture.</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, there&#39;s good news and bad news. The good news is that information will be everywhere and nowhere almost for free. The internet might be in your contact lens. You&#39;ll simply blink, blink and then the internet will appear inside your contact lens and who were the first people to buy internet contact lenses college students taking final examinations.</p>
+
+<p>[CHEERING]</p>
+
+<p>College students will blink and see all the answers to my exam right there in their contact lens. This could be really helpful. Your contact lens will recognize people&#39;s faces and tell you what their background is and translate Chinese into German into English. So let&#39;s say you&#39;re at a cocktail party. And there&#39;s some very important people at that cocktail party, but you don&#39;t know who they are. In the future, you will know exactly who to suck up to at any cocktail party. On a blind date, if your blind date says that he&#39;s rich, he&#39;s single, he&#39;s loaded. But your contact lens says that no, he&#39;s three times divorced, pays child support payments, and is a loser, it could be very useful. Now that&#39;s the good news.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: The bad news, though, the future does have bad news. The bad news is that in the future, we will have lawyers.</p>
+
+<p><strong>TAYLOR WILSON</strong>: That&#39;s a given.</p>
+
+<p><strong>MICHIO KAKU</strong>: That&#39;s because only a human can argue to a jury. Only a human can argue to a judge. Robots can&#39;t do that. Robots cannot understand ethics or morals. And so yeah, to people involved in person to person relationships, like lawyers, professors, mentors, we will have jobs in the future.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yeah. But the more monotonous tasks will probably be going away.</p>
+
+<p><strong>MICHIO KAKU</strong>: What?</p>
+
+<p><strong>TAYLOR WILSON</strong>: The more monotonous tasks will probably be going away.</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, dull dirty, dangerous-- </p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: -- the three D&#39;s-- dull jobs dirty, dangerous repetitive jobs, jobs that involve danger, those jobs will be done by robots in the future.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Well, that&#39;s interesting. OK. We&#39;ve talked a little bit about the brain. We&#39;ve talked a little bit about artificial intelligence. I wanted to ask your thoughts on something I think that is near and dear to both of our hearts, which is space exploration and where we&#39;re going beyond Earth. You&#39;ve written a lot about this subject about missions to Mars and the planets and beyond. What are some of the most exciting things you can imagine seeing in our lifetimes and then maybe even beyond that?</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, the fundamental problem with space travel has been a four letter word-- cost, C-O-S-T. It cost <em>$10,000</em> to put a pound of anything in orbit around the Earth. That&#39;s your weight in gold. Your weight in gold. That&#39;s how expensive space travel is until recently. Prices are dropping like a rock now. For example, how many people here in this room have seen the movie &quot;The Martian&quot; with Matt Damon. Raise your hand. Wow. That movie cost <em>$100</em> million dollars. But the Indians sent a probe to Mars for <em>$70</em> million. going to Mars costs-- a Hollywood movie about going to Mars costs more than actually going to Mars.</p>
+
+<p>[LAUGHTER]</p>
+
+<p>That&#39;s how much space travel has dropped. And when you drive a car and you commute to work, do you junk your car after one ride. No, cars would be expensive if you junked it after one ride. But that&#39;s what we do for rockets.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes.</p>
+
+<p><strong>MICHIO KAKU</strong>: We junk rockets after just one use. We junk them. All that&#39;s changing with reusable rockets, with Silicon Valley billionaires now fulfilling their dream of creating fantastic devices in space. We&#39;re entering the second golden era of space exploration. I wouldn&#39;t be surprised if some of your grandkids honeymoon on the moon. I think the moon is only three days away.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Yes. A short trip.</p>
+
+<p><strong>MICHIO KAKU</strong>: As costs go down, yeah, I think our grandkids may honeymoon on the moon. It&#39;s a great weekend location. Not great scenery, but well, if you like craters and dust.</p>
+
+<p><strong>TAYLOR WILSON</strong>: That&#39;s great. And we were talking backstage, one of the interesting things that come out of a grand unified theory in string theory is the explanation of what happens at these very extreme conditions where you have incredible amounts of energy, incredible amounts of heat in a limited space. And we were talking about could this be a way to travel vast distances that we can&#39;t travel today. Maybe you could speak a little bit to that.</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, many people want to know, like in &quot;Star Trek&quot;, can you break the light barrier? Can you go faster than the speed of light? Well, it was Einstein himself in 1935 that opened the door to faster than light travel when he introduced the wormhole. That was the first paper written about wormholes. The first book about wormholes was written in the 1800s by Charles Dodgson, Oxford mathematician who wrote a children&#39;s book, &quot;Alice in Wonderland.&quot; Now this Oxford mathematician could not write under his name, Charles Dodgson. It was a children&#39;s book. So he wrote under a pen name, Lewis Carroll. But the looking glass is the wormhole. You put your hand through the looking glass, and you wind up on a different space and time. So we think that, yes, that would be a way to go faster than the speed of light. Now, what&#39;s the catch? There&#39;s always a catch some place. First of all, the energy necessary to punch a hole in space and time is that of a black hole. You&#39;re talking about fantastic amounts of energy. Second, you have to stabilize it. That means negative energy. Positive energy to open the gateway, and then negative energy to prevent it from collapsing, in other words, stability. And this has not yet been worked out. It would take a very advanced civilization to do this. Now I&#39;m on radio and I broadcast every week. And some people call me on the telephone. And they say professor, you&#39;re wrong. You&#39;re totally wrong. The aliens aren&#39;t there in outer space with warp drive. The aliens are here on the Earth. And then I ask them, how do you know? And they say, well, they&#39;ve been kidnapped, kidnapped by flying saucers. They know that they&#39;re out there. Well I have a word of advice. The next time you are kidnapped by a flying saucer, for God&#39;s sake, steal something.</p>
+
+<p>[LAUGHTER]</p>
+
+<p>There&#39;s no law against stealing from an extraterrestrial civilization-- </p>
+
+<p><strong>TAYLOR WILSON</strong>: That&#39;s true, yeah.</p>
+
+<p><strong>MICHIO KAKU</strong>: -- no law whatsoever. An alien ship, an alien hammer, an alien paperclip, anything so that you have bragging rights about going into outer space.</p>
+
+<p><strong>TAYLOR WILSON</strong>: That&#39;s good advice. It&#39;s good advice. </p>
+
+<hr/>
+
+<p><strong>TAYLOR WILSON</strong>: All right. I guess we can start opening it up to questions. If you want to make your way to the mic, start to line up. We&#39;ll try to do our best to answer the questions that you have. So over here, you were the first.</p>
+
+<p><strong>AUDIENCE</strong>: Hi. Dr. Kaku, thank you so much for coming out. I&#39;m really inspired. I wanted to hear some of your thoughts on ethical development and how we might be able to help machines uphold ethics in our society.</p>
+
+<p><strong>MICHIO KAKU</strong>: What was that again?</p>
+
+<p><strong>TAYLOR WILSON</strong>: Ethics and how we help machines uphold the ethics that we as a society hold. Is that correct?</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, several things-- first of all, we have to make sure that this technology is used by the largest numbers of people. But you see when technology first becomes available, it&#39;s always for the rich. When the telephone first came out over 100 years ago, who had personal telephones? It was rich people. But eventually, we have things like Moore&#39;s law, computer power doubling every 18 months. And so with time, the cost of telephone goes down. We once thought there was going to be a digital divide when rich people would have laptops, poor people would have nothing. But now we know that most children are the first to be wired up. Because if a child is not on the internet, they don&#39;t exist on the internet. But there&#39;s also another ethical problem for the next coming decades. Some people wonder, when robots become smarter and smarter, are they going to have a civil rights movement? Maybe-- because in the future, robots may be programmed to feel pain. Today, we feel pain because it&#39;s good for us. Otherwise, we lose our fingers, our fingers get burned, cut up. Pain is good, because it prevents us from destroying ourselves. Eventually, robots may have to feel pain. Otherwise, we will tell them to jump off a cliff, and they&#39;ll destroy themselves. They have to feel pain. At that point, it has to be regulated. So we may have a robots civil rights movement to limit the amount of pain that a master can impose upon their robot. Now that of course is many, many decades away. But eventually, robots may also be part of our ethical understanding of technology when they feel pain.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Interesting. All right over here.</p>
+
+<p><strong>MICHIO KAKU</strong>: Dr. Kaku, one of my earliest memories is of watching the Discovery Channel and seeing you on there. Thank you for the role that you played in shaping that part of my early childhood experience.</p>
+
+<p><strong>MICHIO KAKU</strong>: Thank you.</p>
+
+<p><strong>AUDIENCE</strong>: And related to that, I wanted to hear what you are excited about when it comes to expanding the scale and accessibility of science communication into the future.</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, it used to be that mass media would stay away from science because, quote, &quot;Science doesn&#39;t sell.&quot; so back in those days we only had three networks and science was invisible for the most part. And most people, when they learned about science, they learned about science in school. But there&#39;s a problem there. First of all, we&#39;re all born scientists. When we&#39;re born, we want to know why the sun shines. We better know where we came from. But then we hit the greatest killer of scientists known to science. The greatest destroyer of scientists known to science is junior high school. When we hit junior high school, it&#39;s all over. We lose scientists by the hundreds of thousands. Why? Because science is made boring. It&#39;s made repetitive. You have to learn to name things rather than learning the great principles, the great concepts of science. And that&#39;s why more recently we have the internet, we have cable, which brings science to an audience. Now it turns out that about a million people subscribe to &quot;Scientific American&quot;. That&#39;s the hard core. These people will seek out science even when there&#39;s no science, about a million people, the hardcore. But then there&#39;s another 5 to 10 million people who will tune in sometimes to Discovery, Science Channel, National Geographic, if there&#39;s something really interesting happening. So we know that we can reach 5 to 10 million people on a good program. And then with the discovery of the black hole, we can reach 100 million people when we reach resonance, we resonate with the people of the world. So we need more people to write books, more people to be on television, to do radio shows. We need more people like that, rather than less people, to become role models for a new scientific revolution.</p>
+
+<p>[APPLAUSE]</p>
+
+<p><strong>TAYLOR WILSON</strong>: Definitely, that&#39;s great advice. All right. Up here?</p>
+
+<p><strong>AUDIENCE</strong>: Thanks sir. Thanks for coming out today. I was wondering your thoughts on NASA&#39;s recently announced plan to return to the moon in 2024. Do you think it&#39;s feasible?</p>
+
+<p><strong>MICHIO KAKU</strong>: First of all, I think we&#39;re going to have a traffic jam around the moon very soon. First, NASA has the SLS booster rocket. Next year, we&#39;ll orbit around the moon. Then we have Elon Musk of SpaceX who&#39;s selling tickets-- tickets to the general public. He&#39;s been sold out. A Japanese billionaire bought out the entire tickets for the Falcon Heavy rocket that is also fully capable of going around the moon. And then we have Jeff Bezos of Amazon, formerly the richest man in the world. He has a whole spaceport, the Blue Origins rocket program to go to the moon with the Neil Armstrong rocket. And then we have the Chinese. The Chinese have announced that they&#39;re going to plant the Chinese flag on the moon. So I think we&#39;re going to have a traffic jam with three American rockets, one Chinese, and perhaps one European rocket fully committed to go back to the moon. And the question is, why? Because costs have been dropping. Technology is catching up. You realize that your cell phone-- your cell phone has more computer power than all of NASA in 1969 when we put two men on the moon. That&#39;s right. Your cell phone today has more computer power than all of NASA. In fact, I think it&#39;s criminal what they were doing in 1969, criminal sending humans into space backed up by one cell phone. Would you go into outer space knowing that your rocket is backed up by one cell phone? That&#39;s what we did in 1969. I think it&#39;s criminal. So I think that we&#39;re going to witness a second golden era of space exploration as costs begin to drop, not <em>$10,000</em> a pound, not even <em>$1,000</em> a pound, but eventually, a few hundred dollars per pound. That&#39;s the goal.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Oh. That&#39;s great.</p>
+
+<p>[APPLAUSE]</p>
+
+<p>All right. Over here?</p>
+
+<p><strong>AUDIENCE</strong>: It&#39;s an honor to be here with you, Dr. Kaku. I have a question, a simple one. Do you believe humans will reach a Type 1 civilization?</p>
+
+<p><strong>MICHIO KAKU</strong>: OK. A type-- I&#39;m a physicist. We rank civilizations by two things, energy and information. That&#39;s how we rank anything, energy, information. Energy of a planet eventually reaches Type 1. So that Earth becomes planetary, we, for example, can control the weather. We can mine the oceans. Type 2 is stellar, where you then begin to consume the power of a star, like &quot;Star Trek.&quot; &quot;Star Trek&quot; would be a Type 2 civilization where they&#39;ve colonized a few solar systems, but not much more. Type 3 is galactic, a galactic civilization like &quot;Star Wars&quot;, where you can roam the galactic space lane. Now what are we? Are we Type 1 that can mine the ocean, play with the weather? Are we Type 2 that play with stars? Are we Type 3 that play with black holes? No, we&#39;re Type 0. We don&#39;t even rate on this scale. We get our energy from dead plants, oil and coal. So we have all the savagery of a Type 0 civilization-- sectarianism, religious hatred, racism, all the garbage from the past. But by the year 2100, in 100 years&#39; time, we will become Type 1. And that gives us room for hope that we will be a planetary civilization by 2100. For example, what language will they speak? Already the two languages on the internet are English and Mandarin Chinese. Look at the internet. What is the internet? The internet is the first Type 1 technology to arrive in this century. That&#39;s what the internet is-- the first Type 1 technology to arrive. That we have the European Union, Type 1 economy. We have the beginning of a Type I sports, Olympics, soccer. We have the beginning of a Type 1 music, rock and roll, rap music, yuck. We have the beginning of a Type 1 culture. But it&#39;s not guaranteed that we will make the transition to Type 1. Because we still have all the savagery, all the backwardness, of our ancient past. By the way, I once spoke in London at the planetarium. And a little boy comes up to me. The little boy says, Professor, you&#39;re wrong. You&#39;re wrong. There&#39;s Type 4. And so I told him, look, kid. Look, kid. There are planets, stars, and galaxies. That&#39;s it, folks. Planets, stars, and galaxies. Therefore, we have Type 1, Type 2, Type 3. And he said, Professor, you&#39;re wrong. There&#39;s Type 4. I said what energy is beyond galactic? And he said the continuum. Now who here is a Trekkie who understands what I just said? What is the only Type 4 civilization on network television? The Q-- if you did not understand what just transpired, get with the program. The Q is extragalactic. And what is that energy-- dark energy. Dark energy is beyond galactic. That is the energy of a Type 4.</p>
+
+<p><strong>TAYLOR WILSON</strong>: Hm. Interesting. All right. We&#39;ll take one more question over here.</p>
+
+<p><strong>AUDIENCE</strong>: First off, thank you for being here. Second, thank you for being somebody else who had a question about the Kardashev Scale. So I had to kind of think of something new that&#39;s still in kind of the same vein. So my question would be how long do you think it will be before we actually really begin to register on the scale? And what can each of us as individuals do to kind of do our part in society to push it that way before we destroy ourselves as a civilization?</p>
+
+<p><strong>MICHIO KAKU</strong>: Well, on this question I actually differ with many other scientists. Most scientists would say that technology has no direction, no moral direction. Science is a sword, a double-edged sword. One side can cut against disease, ignorance, poverty. The other side can cut against people. I disagree. I think technology does have a moral direction. Because the internet spreads information. Information gives you empowerment. Empowerment gives you democracy. And democracies do not war with other democracies. Let&#39;s do a science experiment. Write down every single war you had to memorize as a child since you were in grade school, every single war. Every war has been fought between kings, emperors, queens, dictators, but never between two major democracies. And so I think we are entering a new moral dimension where technology is changing the way humans interact with other humans so that we don&#39;t tolerate dictatorships so much. When I was young, in our history class, we learned something called dictator for life. You had Russia. You had the United States. If you were a pawn of Russia or a pawn of America, you were there forever. The only way to take you out of power is through a coffin. Dictator for life-- today, we laugh at that. I mean, dictators for life-- I mean, come on, right? We have the internet. We have empowerment. We have knowledge. And so dictators are endangered species now. So I think that technology does have a moral direction. I think it is liberating, it is empowering, and it is changing world history. A new chapter in world history is being written as individuals make their mark on human history.</p>
+
+<p><strong>TAYLOR WILSON</strong>: All right. Well, thank you all.</p>
+
+<p>[APPLAUSE]</p>
+
+<p>That was great. Thank you all for joining us. It was a lot of fun to get to talk to you about physics and the universe. And I think this is a great audience for that because you&#39;re all involved in technology. You&#39;re all involved in that pursuit of taking us forward as a civilization. So I hope this inspired some interesting questions and ideas. And hopefully, you helped take us towards that Type 1 civilization that we so desperately need. So thank you so much, Dr. Kaku.</p>
+
+<p><strong>MICHIO KAKU</strong>: Thank you.</p>
+
+<p>[MUSIC PLAYING]</p>
 
 ]]></content>
   </entry>
