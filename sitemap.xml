@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://haokw.github.io/</loc>
-  <lastmod>2019-06-09T22:17:04+08:00</lastmod>
+  <lastmod>2019-06-09T22:35:18+08:00</lastmod>
 </url>
 
 <url>
@@ -13,6 +13,11 @@
 <url>
   <loc>https://haokw.github.io/flow.html</loc>
   <lastmod>2019-06-04T18:13:50+08:00</lastmod>
+</url>
+
+<url>
+  <loc>https://haokw.github.io/effective-learning.html</loc>
+  <lastmod>2019-06-03T22:24:54+08:00</lastmod>
 </url>
 
 <url>
@@ -56,7 +61,7 @@
 </url>
 
 <url>
-  <loc>https://haokw.github.io/15600871392063.html</loc>
+  <loc>https://haokw.github.io/learn-english-vocabulary.html</loc>
   <lastmod>2019-05-11T21:32:19+08:00</lastmod>
 </url>
 
@@ -92,11 +97,11 @@
 </url>
 
 <url>
-  <loc>https://haokw.github.io/%E8%8B%B1%E8%AF%AD.html</loc>
+  <loc>https://haokw.github.io/english.html</loc>
 </url>
 
 <url>
-  <loc>https://haokw.github.io/%E8%AE%BF%E8%B0%88.html</loc>
+  <loc>https://haokw.github.io/interview.html</loc>
 </url>
 
 
