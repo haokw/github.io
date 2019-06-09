@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hao's Blog]]></title>
+  <link href="https://haokw.github.io/atom.xml" rel="self"/>
+  <link href="https://haokw.github.io/"/>
+  <updated>2019-06-09T17:50:48+08:00</updated>
+  <id>https://haokw.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[入门阶段]]></title>
+    <link href="https://haokw.github.io/start.html"/>
+    <updated>2019-06-09T16:07:37+08:00</updated>
+    <id>https://haokw.github.io/start.html</id>
+    <content type="html"><![CDATA[
+<p>入门阶段需要端正一些态度，了解一些专业背景，从前辈的轨迹中得到一些指导。</p>
+
+<!--more-->
+
+<ul>
+<li>
+<a href="#toc_0">文档阅读</a>
+</li>
+<li>
+<a href="#toc_1">文章阅读</a>
+</li>
+<li>
+<a href="#toc_2">尝鲜记录</a>
+</li>
+</ul>
+
+
+<h2 id="toc_0">文档阅读</h2>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web">MDN web docs</a></li>
+<li><a href="https://git-scm.com/book/en/v2">Pro Git</a></li>
+<li><a href="https://code.visualstudio.com/docs">Visual Studio Code</a></li>
+<li><a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL</a></li>
+<li><a href="https://dev.mysql.com/doc/workbench/en/">MySQL Workbench</a></li>
+</ul>
+
+<h2 id="toc_1">文章阅读</h2>
+
+<ul>
+<li><a href="http://norvig.com/21-days.html">Teach Yourself Programming in Ten Years</a></li>
+<li><a href="https://skorks.com/2011/02/the-greatest-developer-fallacy-or-the-wisest-words-youll-ever-hear/">The Greatest Developer Fallacy Or The Wisest Words You’ll Ever Hear?</a></li>
+<li><a href="http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/">The Key To Accelerating Your Coding Skills</a></li>
+<li><a href="http://www.igeekbar.com/igeekbar/post/156.htm">超完整的Chrome浏览器客户端调试大全</a></li>
+<li><a href="http://www.imkevinyang.com/2010/06/%E5%85%B3%E4%BA%8E%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%EF%BC%8C%E4%BD%A0%E6%89%80%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84.html">关于字符编码，你所需要知道的</a></li>
+<li><a href="https://www.quora.com/What-are-some-uncommon-ways-to-work-smarter-instead-of-harder/answer/Andrew-Ferebee">What are some uncommon ways to work smarter instead of harder?</a></li>
+<li><a href="https://developers.google.com/">Google Developers</a></li>
+</ul>
+
+<h2 id="toc_2">尝鲜记录</h2>
+
+<ul>
+<li><a href="https://www.figma.com/">Figma</a></li>
+<li>LaTeX</li>
+<li>Docker</li>
+<li>一亩三分地</li>
+<li>ZooKeeper</li>
+<li>LeetCode</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

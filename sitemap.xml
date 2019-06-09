@@ -1,182 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190603-flow/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%E8%AE%A1%E5%88%92/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190603-effective-learning/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/190519-michio-kaku-future-of-humanity/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E6%9C%AA%E6%9D%A5/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/%E8%A7%81%E8%AF%86/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190518-27-english-verb-tenses/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190517-26-modal-verbs/</loc>
-    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/190516-25-english-sentence-structure/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E5%90%AC%E5%8A%9B/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190515-24-understand-fast-speech/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/190514-23-english-reading-skills/</loc>
-    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190513-22-smart-goals-english-learning/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E7%9B%AE%E6%A0%87/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190512-21-tips-learning-english/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/190511-20-learn-english-vocabulary/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E8%AF%8D%E6%B1%87/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190510-19-improve-english-grammar/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/190509-18-shy-speaking-english/</loc>
-    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E5%8F%A3%E8%AF%AD/</loc>
-    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/190508-17-improve-english-listenging/</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/190507-16-speak-english-fluently/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://haokw.github.io/</loc>
+  <lastmod>2019-06-09T18:05:34+08:00</lastmod>
+</url>
+
+<url>
+  <loc>https://haokw.github.io/start.html</loc>
+  <lastmod>2019-06-09T16:07:37+08:00</lastmod>
+</url>
+
+
+
+<url>
+  <loc>https://haokw.github.io/engineer.html</loc>
+</url>
+
+
 </urlset>
