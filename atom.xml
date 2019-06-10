@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Hao's Blog]]></title>
+  <title><![CDATA[Bang!]]></title>
   <link href="https://haokw.github.io/atom.xml" rel="self"/>
   <link href="https://haokw.github.io/"/>
-  <updated>2019-06-10T22:54:27+08:00</updated>
+  <updated>2019-06-10T23:24:48+08:00</updated>
   <id>https://haokw.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,7 +13,7 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[指导资料收集]]></title>
+    <title type="html"><![CDATA[快来帮我入门计算机技术]]></title>
     <link href="https://haokw.github.io/start.html"/>
     <updated>2019-06-09T16:07:37+08:00</updated>
     <id>https://haokw.github.io/start.html</id>
@@ -72,7 +72,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[提升持续迭代计划]]></title>
+    <title type="html"><![CDATA[技术成长齐步走]]></title>
     <link href="https://haokw.github.io/flow.html"/>
     <updated>2019-06-09T18:13:50+08:00</updated>
     <id>https://haokw.github.io/flow.html</id>
@@ -133,7 +133,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[高效学习完全指南]]></title>
+    <title type="html"><![CDATA[高效学习一波流]]></title>
     <link href="https://haokw.github.io/effective-learning.html"/>
     <updated>2019-06-09T22:24:54+08:00</updated>
     <id>https://haokw.github.io/effective-learning.html</id>
