@@ -4,13 +4,24 @@
   <title><![CDATA[Bang!]]></title>
   <link href="https://haokw.github.io/atom.xml" rel="self"/>
   <link href="https://haokw.github.io/"/>
-  <updated>2019-07-06T22:53:09+08:00</updated>
+  <updated>2019-07-07T12:13:19+08:00</updated>
   <id>https://haokw.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[图片测试]]></title>
+    <link href="https://haokw.github.io/15624747574067.html"/>
+    <updated>2019-07-07T12:45:57+08:00</updated>
+    <id>https://haokw.github.io/15624747574067.html</id>
+    <content type="html"><![CDATA[
+<p><figure><img src="media/15624747574067/h.png" alt="h"/><figcaption>h</figcaption></figure></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[快来帮我入门计算机技术]]></title>
